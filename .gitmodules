@@ -1,0 +1,12 @@
+[submodule "Bubblecoup"]
+	path = Bubblecoup
+	url = git@github.com:bvallelunga/Bubblecoup.git
+[submodule "Imprint"]
+	path = Imprint
+	url = git@github.com:bvallelunga/Imprint.git
+[submodule "Dintopia"]
+	path = Dintopia
+	url = git@github.com:bvallelunga/Dintopia.git
+[submodule "Latch"]
+	path = Latch
+	url = git@github.com:SooJuicy/Latch.git
