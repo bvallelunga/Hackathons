@@ -10,3 +10,6 @@
 [submodule "Latch"]
 	path = Latch
 	url = git@github.com:SooJuicy/Latch.git
+[submodule "EnjoyPnD"]
+	path = EnjoyPnD
+	url = git@github.com:bvallelunga/EnjoyPnD.git
